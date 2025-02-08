@@ -1,0 +1,1 @@
+This is a folder with a few trials of using different <b>GenAI</b> tools for sentence-constructor
